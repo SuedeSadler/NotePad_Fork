@@ -8,7 +8,6 @@ We will create the following documents to support the deployment of this applica
 
 - Fork Repository
 - Deploy using Publish wizard or ClickOnce
-- Create an Install Guide
 - Create a User Manual
 - Add Manual to Download Zip
 
